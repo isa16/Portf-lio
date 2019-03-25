@@ -2402,8 +2402,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-primary:hover {
     color: #fff;
-    background-color: #49b428;
-    border-color: #45a926
+    background-color: #99253e;
+    border-color: #99253e
 }
 
 .btn-primary.focus, .btn-primary:focus {
@@ -2419,8 +2419,8 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-primary:not(:disabled):not(.disabled).active, .btn-primary:not(:disabled):not(.disabled):active, .show>.btn-primary.dropdown-toggle {
     color: #fff;
-    background-color: #45a926;
-    border-color: #419f23
+    background-color: #99253e;
+    border-color: #99253e
 }
 
 .btn-primary:not(:disabled):not(.disabled).active:focus, .btn-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-primary.dropdown-toggle:focus {
@@ -2667,16 +2667,16 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-    color: #57d131;
+    color: #d13154;
     background-color: transparent;
     background-image: none;
-    border-color: #57d131
+    border-color: #d13154
 }
 
 .btn-outline-primary:hover {
     color: #212529;
-    background-color: #57d131;
-    border-color: #57d131
+    background-color: #d13154;
+    border-color: #d13154
 }
 
 .btn-outline-primary.focus, .btn-outline-primary:focus {
@@ -2685,14 +2685,14 @@ a.btn.disabled, fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-    color: #57d131;
+    color: #d13154;
     background-color: transparent
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show>.btn-outline-primary.dropdown-toggle {
     color: #212529;
-    background-color: #57d131;
-    border-color: #57d131
+    background-color: #d13154;
+    border-color: #d13154
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled).active:focus, .btn-outline-primary:not(:disabled):not(.disabled):active:focus, .show>.btn-outline-primary.dropdown-toggle:focus {
@@ -2940,7 +2940,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #57d131;
+    color: #d13154;
     background-color: transparent
 }
 
